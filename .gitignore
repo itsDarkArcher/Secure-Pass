@@ -1,0 +1,8 @@
+#ignorando archivos pickle
+*.pkl
+
+#ignorando pycache
+*.pyc
+
+#ignorando carpeta scripts
+/Scripts/
