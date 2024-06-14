@@ -9,13 +9,13 @@ def main():
     root = tk.Tk()
     root.title("CIPHER-KEY")  # Establecer el título de la ventana
     root.configure(bg="#222222")  # Establecer el color de fondo de la ventana
-    root.geometry("400x400")  # Establecer las dimensiones de la ventana
+    root.geometry("700x550")  # Establecer las dimensiones de la ventana
     
     # Crear un label para el título de la aplicación
     label = tk.Label(root, text="CIPHER", bg="#222222", fg="#ffffff", font=("Helvetica", 20, "bold"))
     label.pack(pady=15)  # Colocar el label en la ventana con un espacio vertical de 15 píxeles
     
-    # Frame para el menú principal
+    # Frame para el menú principa
     main_menu_frame = tk.Frame(root, bg="#222222")  # Crear un frame para el menú principal
     
     # Crear botones para las diferentes opciones del menú principal
