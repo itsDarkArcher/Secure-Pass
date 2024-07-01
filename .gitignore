@@ -6,3 +6,6 @@
 
 #ignorando carpeta scripts
 /Scripts/
+
+#ignorando diagramas de flujo
+*.vsdx
